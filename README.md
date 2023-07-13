@@ -13,4 +13,8 @@ Requisiti sull’Esecuzione del RobotEvosuite
 
 **esempio**: >bash robot_generazione.sh calcolatrice calcolatrice mnt/f/Desktop/repository/calcolatrice 3
 
-**NOTA BENE**: sono presenti anche il file .tar dei container docker, è possibile quindi importarli bypassare le prime 4 fasi di installazione
+**NOTA BENE**: sono presenti anche i link ai file .tar dei container docker, è possibile quindi importarli bypassare le prime 4 fasi di installazione
+
+**Link container Generazione_Livelli.tar**: https://communitystudentiunina-my.sharepoint.com/:u:/g/personal/t_didona_studenti_unina_it/ESAXc4ZfmB1Mj7lR20kvpaYBJxUFy6AFp0CM-PNPgQLIzA?e=mCf2KF
+
+**Link container Misurazione_utente.tar**: https://communitystudentiunina-my.sharepoint.com/:u:/g/personal/t_didona_studenti_unina_it/EXqy4gpOoPtJooM2hh8_gp8Bz8FG_q4LhrTABScJ-E7m6A?e=wmfsgJ
