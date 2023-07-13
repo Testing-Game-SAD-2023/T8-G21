@@ -12,3 +12,5 @@ Requisiti sull’Esecuzione del RobotEvosuite
 7) Per un corretto avvio della generazione dei test e dei livelli bisogna lanciare lo script robot_generazione.sh nel seguente modo : >bash robot_generazione.sh NOME_CLASSE NOME_PACKAGE PERCORSO_PACKAGE NUMERO_LIVELLI
 
 **esempio**: >bash robot_generazione.sh calcolatrice calcolatrice mnt/f/Desktop/repository/calcolatrice 3
+
+**NOTA BENE**: sono presenti anche il file .tar dei container docker, è possibile quindi importarli bypassare le prime 4 fasi di installazione
